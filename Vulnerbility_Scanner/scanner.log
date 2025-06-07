@@ -1,0 +1,6 @@
+INFO:root:Discovering hosts in scanme.nmap.org...
+INFO:root:Found hosts: ['45.33.32.156']
+INFO:root:Scanning 45.33.32.156 [UDP]
+INFO:root:Discovering hosts in scanme.nmap.org...
+INFO:root:Found hosts: ['45.33.32.156']
+INFO:root:Scanning 45.33.32.156 [TCP]

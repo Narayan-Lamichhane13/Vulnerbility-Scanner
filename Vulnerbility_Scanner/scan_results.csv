@@ -1,0 +1,7 @@
+Host,OS,Port,Proto,State,Service,Product,Version,Vulnerability ID,Description,Severity
+45.33.32.156,Unknown,22,tcp,open,ssh,,,N/A,No known vulnerabilities.,N/A
+45.33.32.156,Unknown,25,tcp,filtered,smtp,,,N/A,No known vulnerabilities.,N/A
+45.33.32.156,Unknown,80,tcp,open,http,,,N/A,No known vulnerabilities.,N/A
+45.33.32.156,Unknown,135,tcp,filtered,msrpc,,,N/A,No known vulnerabilities.,N/A
+45.33.32.156,Unknown,139,tcp,filtered,netbios-ssn,,,N/A,No known vulnerabilities.,N/A
+45.33.32.156,Unknown,445,tcp,filtered,microsoft-ds,,,N/A,No known vulnerabilities.,N/A
