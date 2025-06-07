@@ -1,0 +1,62 @@
+[
+  {
+    "Host": "45.33.32.156",
+    "OS": "Unknown",
+    "Ports": [
+      {
+        "Port": 22,
+        "Proto": "tcp",
+        "State": "open",
+        "Service": "ssh",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      },
+      {
+        "Port": 25,
+        "Proto": "tcp",
+        "State": "filtered",
+        "Service": "smtp",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      },
+      {
+        "Port": 80,
+        "Proto": "tcp",
+        "State": "open",
+        "Service": "http",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      },
+      {
+        "Port": 135,
+        "Proto": "tcp",
+        "State": "filtered",
+        "Service": "msrpc",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      },
+      {
+        "Port": 139,
+        "Proto": "tcp",
+        "State": "filtered",
+        "Service": "netbios-ssn",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      },
+      {
+        "Port": 445,
+        "Proto": "tcp",
+        "State": "filtered",
+        "Service": "microsoft-ds",
+        "Product": "",
+        "Version": "",
+        "Vulnerabilities": []
+      }
+    ]
+  }
+]
